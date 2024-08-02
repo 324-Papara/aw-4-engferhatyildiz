@@ -1,0 +1,17 @@
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.deps.json
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.runtimeconfig.json
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.dll
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.pdb
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Base.dll
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Base.pdb
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.csproj.AssemblyReference.cache
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfoInputs.cache
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfo.cs
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.csproj.CoreCompileInputs.cache
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.csproj.Up2Date
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.dll
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\refint\Para.Data.dll
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.pdb
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.genruntimeconfig.cache
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\ref\Para.Data.dll
