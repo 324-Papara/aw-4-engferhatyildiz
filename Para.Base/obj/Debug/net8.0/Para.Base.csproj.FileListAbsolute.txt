@@ -1,0 +1,12 @@
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\bin\Debug\net8.0\Para.Base.deps.json
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\bin\Debug\net8.0\Para.Base.dll
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\bin\Debug\net8.0\Para.Base.pdb
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\Para.Base.csproj.AssemblyReference.cache
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\Para.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\Para.Base.AssemblyInfoInputs.cache
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\Para.Base.AssemblyInfo.cs
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\Para.Base.csproj.CoreCompileInputs.cache
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\Para.Base.dll
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\refint\Para.Base.dll
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\Para.Base.pdb
+C:\Users\ferha\OneDrive\Desktop\pk-ppr-main\Para.Api\Para.Base\obj\Debug\net8.0\ref\Para.Base.dll
